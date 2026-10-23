@@ -1,2 +1,1 @@
-echo "google.com, pub-3755793679291180, DIRECT, f08c47fec0942fa0" > app-ads.txt
-vercel --prod
+google.com, pub-3755793679291180, DIRECT, f08c47fec0942fa0
